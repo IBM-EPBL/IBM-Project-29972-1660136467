@@ -1,0 +1,19 @@
+Industry-Specific Intelligent Fire Management System
+Category: Internet Of Things
+
+Skills Required:
+Python,IOT Application Development,IBM Cloud,IBM Watson
+
+Project Description:
+
+The smart fire management system includes a Gas sensor, Flame sensor and temperature sensors to detect any changes in the environment.
+Based on the temperature readings and if any Gases are present the exhaust fans are powered ON.
+If any flame is detected the sprinklers will be switched on automatically.
+Emergency alerts are notified to the authorities and Fire station.
+
+Technical Architecture:
+
+
+
+Note: Use random values in python for sensor data as physical hardware is not available.
+
